@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ぼくのほそ道",
+  "base_artist": "伊東歌詞太郎",
+  "createdAt": "2026-02-14T15:04:31.374334Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぼくのほそ道",
+      "artist": "伊東歌詞太郎",
+      "has_synced": false,
+      "path": "select/pl_01_ぼくのほそ道_伊東歌詞太郎.txt"
+    }
+  ]
+}
